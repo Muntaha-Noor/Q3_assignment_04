@@ -1,7 +1,6 @@
-
 def add_many_numbers(numbers) -> int:
 
-    total_so_far = 0
+    total = 0
     
     for number in numbers:
         total_so_far += number

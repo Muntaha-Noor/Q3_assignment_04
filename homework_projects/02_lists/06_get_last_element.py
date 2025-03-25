@@ -20,4 +20,5 @@ def main():
     get_last_element(lst)  
 
 if __name__ == '__main__':
-    main()  
+    main()
+    
