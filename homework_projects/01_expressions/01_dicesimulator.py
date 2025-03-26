@@ -3,9 +3,6 @@ import random
 NUM_SIDES = 6
 
 def roll_dice():
-    """
-    Simulates rolling two dice and prints their total
-    """
     die1: int = random.randint(1, NUM_SIDES) 
     die2: int = random.randint(1, NUM_SIDES) 
     total: int = die1 + die2  

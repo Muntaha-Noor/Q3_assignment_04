@@ -6,9 +6,6 @@ def shorten(lst):
         print(last_elem) 
 
 def get_lst():
-    """
-    User se ek ek karke list ka element input lene ke liye
-    """
     lst = []
     elem = input("Please enter an element of the list or press enter to stop. ")
     while elem != "":

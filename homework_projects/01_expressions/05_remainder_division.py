@@ -1,4 +1,3 @@
-
 def main():
 
     dividend: int = int(input("please enter an interger to be divided: "))
